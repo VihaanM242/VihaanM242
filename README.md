@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @VihaanM242
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VihaanM242/VihaanM242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in leanring PCB Design and leanring how to program in Dart and Java
+- 🌱 I’m currently learning Advanced Python, and how to build backend and frontend websites with HTML, CSS, JS, Flask, MongoDB, and Firebase
+- 💞️ I’m looking to collaborate on open source projects and products
+- 📫 How to reach me, by email is preferable
